@@ -1,0 +1,68 @@
+body{
+    background-image: url("http://ak0.picdn.net/shutterstock/videos/7034680/thumb/1.jpg"); 
+    background-size:cover;
+}
+#audioContainer {
+    position: fixed;
+    bottom: 0;
+}
+h1{
+    background: gray;
+    color: ghostwhite;
+    font-family: 'Rokkitt', serif;
+    font-size: 1.6em;
+    text-align:center;
+    border:outset;
+    margin:0px -40px;
+    padding: 40px;
+}
+h4{
+    background: gray;
+    color: ghostwhite;
+    font-family: 'Rokkitt', serif;
+    font-size: 1.6em;
+    text-align:center;
+    border:outset;
+    float:left;
+    margin:12px 40px;
+    padding: 10px;
+    padding-bottom:39px;
+}
+h5{
+    color: ghostwhite;
+    font-family: 'Rokkitt', serif;
+    font-size: 16px;
+    text-align:left;
+}
+.card-title{
+    color:ghostwhite;
+    font-family: 'Rokkitt', serif;
+    font-size: 18px;
+    text-align:center;
+    text-decoration:underline;
+    text-decoration-color: ghostwhite;
+}
+.card-text{
+    color:ghostwhite;
+    font-family: 'Rokkitt', serif;
+    font-size: 16px;
+    text-align:left;
+}
+.card{
+    background:gray;
+    border:inset;
+    border-color:ghostwhite;
+}
+.card-1{
+    background:gray;
+    border:inset;
+    border-color:ghostwhite;
+    margin: 8px -55px;
+}
+.card-body-1{
+    margin: 5px 10px;
+}
+img{
+    height:100px;
+    width:100px;
+}
